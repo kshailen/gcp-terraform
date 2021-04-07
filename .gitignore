@@ -1,0 +1,5 @@
+.terraform/*
+terraform.tfstate
+.terraform
+terraform.tfstate.backupe
+innovation-ctt-72db65dfe411.json
